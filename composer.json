@@ -1,5 +1,5 @@
 {
-  "name": "xiag/rql-parser",
+  "name": "theolymp/rql-parser",
   "keywords": ["rest", "rql", "resource", "query", "language", "parser"],
   "license": "GPL-2.0",
   "autoload": {
